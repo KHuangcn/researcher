@@ -1,7 +1,6 @@
----
-layout: default
----
 
+## Kaizhu Huang's Homepage
+---
 ## Biography
 
 <img class="profile-picture" src="css/KHuang_SS.jpg">
